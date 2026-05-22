@@ -1,5 +1,11 @@
 # @backstage-community/plugin-confluence
 
+## 0.15.0
+
+### Minor Changes
+
+- 7aeeb74: Backstage version bump to v1.50.3
+
 ## 0.14.1
 
 ### Patch Changes

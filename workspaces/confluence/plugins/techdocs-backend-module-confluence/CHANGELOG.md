@@ -1,5 +1,11 @@
 # @backstage-community/plugin-techdocs-backend-module-confluence
 
+## 0.3.0
+
+### Minor Changes
+
+- 7aeeb74: Backstage version bump to v1.50.3
+
 ## 0.2.1
 
 ### Patch Changes
